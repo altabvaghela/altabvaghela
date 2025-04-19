@@ -39,3 +39,16 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Altab's GitHub stats"/>
 </p>
+
+### 🛠️ Skills & Tools
+
+<p>
+  <img src="./images/html.png" width="40px"/>
+  <img src="./images/css.png" width="40px"/>
+  <img src="./images/javascript.png" width="40px"/>
+  <img src="./images/bootstrap.png" width="40px"/>
+  <img src="./images/react.png" width="40px"/>
+  <img src="./images/git.png" width="40px"/>
+  <img src="./images/github.png" width="40px"/>
+  <img src="./images/vscode.png" width="40px"/>
+</p>
