@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Altab Vaghela</h1>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif"></p>
+<img src="https://raw.githubusercontent.com/leorrose/leorrose/master/readme_header.gif">
 
 <p align="center">
   🚀 Front-End Developer | 💻 Passionate about Web Design & React.js | 🌱 Always Learning  
