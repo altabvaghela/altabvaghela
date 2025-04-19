@@ -44,12 +44,7 @@
   <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="40px"/>
 </p>
 
-<div align="center">
 
-  <h2>🚀 My Technical Skills</h2>
-
-
-</div>
 <div align="center">
   <h2>🚀 My Technical Skills</h2>
 
