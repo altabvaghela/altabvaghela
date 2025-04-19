@@ -43,7 +43,7 @@
 ### 🛠️ Skills & Tools
 
 <p>
-  <img src="./images/html.png" width="40px"/>
+  <img src="./images/html.png](https://img.icons8.com/color/48/html-5.png" width="40px"/>
   <img src="./images/css.png" width="40px"/>
   <img src="./images/javascript.png" width="40px"/>
   <img src="./images/bootstrap.png" width="40px"/>
