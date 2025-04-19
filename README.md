@@ -43,12 +43,11 @@
 ### 🛠️ Skills & Tools
 
 <p>
-  <img src="[./images/html.png](https://img.icons8.com/color/48/html-5.png](https://img.icons8.com/color/48/html-5.png)" width="40px"/>
-  <img src="./images/css.png" width="40px"/>
-  <img src="./images/javascript.png" width="40px"/>
-  <img src="./images/bootstrap.png" width="40px"/>
-  <img src="./images/react.png" width="40px"/>
-  <img src="./images/git.png" width="40px"/>
-  <img src="./images/github.png" width="40px"/>
-  <img src="./images/vscode.png" width="40px"/>
+  <img src="https://img.icons8.com/color/48/html-5.png" width="40px"/>
+  <img src="https://img.icons8.com/color/48/css3.png" width="40px"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" width="40px"/>
+  <img src="https://img.icons8.com/color/48/bootstrap.png" width="40px"/>
+  <img src="https://img.icons8.com/color/48/react-native.png" width="40px"/>
+  <img src="https://img.icons8.com/color/48/git.png" width="40px"/>
+  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="40px"/>
 </p>
