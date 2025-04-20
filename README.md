@@ -47,5 +47,52 @@
 </div>
 
 
+<div align="center" style="background-color:#0d1117; padding: 15px; border-radius: 10px; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; border: 2px solid #30363d;">
+  
+  <div style="padding: 8px; border: 1px solid #30363d; border-radius: 5px;">
+    <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" title="HTML5" />
+  </div>
+
+  <div style="padding: 8px; border: 1px solid #30363d; border-radius: 5px;">
+    <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" title="CSS3" />
+  </div>
+
+  <div style="padding: 8px; border: 1px solid #30363d; border-radius: 5px;">
+    <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" title="JavaScript" />
+  </div>
+
+  <div style="padding: 8px; border: 1px solid #30363d; border-radius: 5px;">
+    <img src="https://img.icons8.com/officel/48/react.png" alt="React" title="React" />
+  </div>
+
+  <div style="padding: 8px; border: 1px solid #30363d; border-radius: 5px;">
+    <img src="https://img.icons8.com/color/48/redux.png" alt="Redux" title="Redux" />
+  </div>
+
+  <div style="padding: 8px; border: 1px solid #30363d; border-radius: 5px;">
+    <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS" />
+  </div>
+
+  <div style="padding: 8px; border: 1px solid #30363d; border-radius: 5px;">
+    <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" title="Bootstrap" />
+  </div>
+
+  <div style="padding: 8px; border: 1px solid #30363d; border-radius: 5px;">
+    <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub" title="GitHub" />
+  </div>
+
+  <div style="padding: 8px; border: 1px solid #30363d; border-radius: 5px;">
+    <img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git" />
+  </div>
+
+  <div style="padding: 8px; border: 1px solid #30363d; border-radius: 5px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" title="Vercel" width="40" />
+  </div>
+
+  <div style="padding: 8px; border: 1px solid #30363d; border-radius: 5px;">
+    <img src="https://img.icons8.com/color/48/netlify.png" alt="Netlify" title="Netlify" />
+  </div>
+
+</div>
 
 
