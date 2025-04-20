@@ -45,24 +45,18 @@
 </p>
 
 
-<div align="center">
-  <table style="background-color:#0d1117; border-collapse: separate; border-spacing: 5px; padding: 10px; border-radius: 10px;">
-    <tr>
-      <td style="color: #fff; font-weight: bold; padding: 10px;">Frontend Development</td>
-
-      <td><img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" title="HTML5"/></td>
-      <td><img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" title="CSS3"/></td>
-      <td><img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" title="JavaScript"/></td>
-      <td><img src="https://img.icons8.com/officel/48/react.png" alt="React" title="React"/></td>
-      <td><img src="https://img.icons8.com/color/48/redux.png" alt="Redux" title="Redux"/></td>
-      <td><img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind" title="Tailwind CSS"/></td>
-      <td><img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></td>
-      <td><img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub" title="GitHub"/></td>
-      <td><img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git"/></td>
-      <td><img src="https://img.icons8.com/ios-filled/50/ffffff/triangle.png" alt="Vercel" title="Vercel"/></td>
-      <td><img src="https://img.icons8.com/color/48/netlify.png" alt="Netlify" title="Netlify"/></td>
-    </tr>
-  </table>
+<div align="center" style="background-color:#0d1117; padding: 10px; border-radius: 10px; display: flex; align-items: center; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" title="HTML5" />
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" title="CSS3" />
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" title="JavaScript" />
+  <img src="https://img.icons8.com/officel/48/react.png" alt="React" title="React" />
+  <img src="https://img.icons8.com/color/48/redux.png" alt="Redux" title="Redux" />
+  <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind" title="Tailwind CSS" />
+  <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" title="Bootstrap" />
+  <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub" title="GitHub" />
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git" />
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/triangle.png" alt="Vercel" title="Vercel" />
+  <img src="https://img.icons8.com/color/48/netlify.png" alt="Netlify" title="Netlify" />
 </div>
 
 
