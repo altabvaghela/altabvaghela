@@ -46,29 +46,25 @@
 
 
 <div align="center">
-  <h2>🚀 My Technical Skills</h2>
+  <table style="background-color:#0d1117; border-collapse: separate; border-spacing: 5px; padding: 10px; border-radius: 10px;">
+    <tr>
+      <td style="color: #fff; font-weight: bold; padding: 10px;">Frontend Development</td>
 
-  <table style="border-collapse: collapse; margin: 0 auto;">
-    <tr style="background-color: #f2f2f2;">
-      <th style="border: 1px solid #ccc; padding: 10px;">HTML5</th>
-      <th style="border: 1px solid #ccc; padding: 10px;">CSS3</th>
-      <th style="border: 1px solid #ccc; padding: 10px;">JavaScript</th>
-      <th style="border: 1px solid #ccc; padding: 10px;">Bootstrap</th>
-      <th style="border: 1px solid #ccc; padding: 10px;">React.js</th>
-      <th style="border: 1px solid #ccc; padding: 10px;">Git</th>
-      <th style="border: 1px solid #ccc; padding: 10px;">GitHub</th>
-    </tr>
-    <tr style="background-color: #f9f9f9;">
-      <td style="border: 1px solid #ccc; padding: 10px;"><img src="https://img.icons8.com/color/48/html-5.png" width="40px"/></td>
-      <td style="border: 1px solid #ccc; padding: 10px;"><img src="https://img.icons8.com/color/48/css3.png" width="40px"/></td>
-      <td style="border: 1px solid #ccc; padding: 10px;"><img src="https://img.icons8.com/color/48/javascript.png" width="40px"/></td>
-      <td style="border: 1px solid #ccc; padding: 10px;"><img src="https://img.icons8.com/color/48/bootstrap.png" width="40px"/></td>
-      <td style="border: 1px solid #ccc; padding: 10px;"><img src="https://img.icons8.com/color/48/react-native.png" width="40px"/></td>
-      <td style="border: 1px solid #ccc; padding: 10px;"><img src="https://img.icons8.com/color/48/git.png" width="40px"/></td>
-      <td style="border: 1px solid #ccc; padding: 10px;"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="40px"/></td>
+      <td><img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" title="HTML5"/></td>
+      <td><img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" title="CSS3"/></td>
+      <td><img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" title="JavaScript"/></td>
+      <td><img src="https://img.icons8.com/officel/48/react.png" alt="React" title="React"/></td>
+      <td><img src="https://img.icons8.com/color/48/redux.png" alt="Redux" title="Redux"/></td>
+      <td><img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind" title="Tailwind CSS"/></td>
+      <td><img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></td>
+      <td><img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub" title="GitHub"/></td>
+      <td><img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git"/></td>
+      <td><img src="https://img.icons8.com/ios-filled/50/ffffff/triangle.png" alt="Vercel" title="Vercel"/></td>
+      <td><img src="https://img.icons8.com/color/48/netlify.png" alt="Netlify" title="Netlify"/></td>
     </tr>
   </table>
 </div>
+
 
 
 
