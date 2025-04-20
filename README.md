@@ -33,18 +33,6 @@
 
 
 ### 🛠️ Skills & Tools
-
-<p>
-  <img src="https://img.icons8.com/color/48/html-5.png" width="40px"/>
-  <img src="https://img.icons8.com/color/48/css3.png" width="40px"/>
-  <img src="https://img.icons8.com/color/48/javascript.png" width="40px"/>
-  <img src="https://img.icons8.com/color/48/bootstrap.png" width="40px"/>
-  <img src="https://img.icons8.com/color/48/react-native.png" width="40px"/>
-  <img src="https://img.icons8.com/color/48/git.png" width="40px"/>
-  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="40px"/>
-</p>
-
-
 <div align="center" style="background-color:#0d1117; padding: 10px; border-radius: 10px; display: flex; align-items: center; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5" title="HTML5" />
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" title="CSS3" />
