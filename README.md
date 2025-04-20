@@ -44,7 +44,6 @@
   <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="GitHub" title="GitHub" />
   <img src="https://img.icons8.com/color/48/git.png" alt="Git" title="Git" />
   <img src="https://img.icons8.com/ios-filled/50/ffffff/triangle.png" alt="Vercel" title="Vercel" />
-  <img src="https://img.icons8.com/color/48/netlify.png" alt="Netlify" title="Netlify" />
 </div>
 
 
